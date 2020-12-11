@@ -1,5 +1,3 @@
-# p3
+# VioletOS/packager
 
-https://garbomuffin.github.io/p3/
-
-The new packager for forkphorus & TurboWarp.
+Violet OS Desktop packager.
